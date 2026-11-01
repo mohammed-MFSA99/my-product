@@ -1,4 +1,4 @@
-# Product Landing Page — صفحة هبوط لمنتج
+# Product Landing Page
 ---
 
 <a name="english"></a>
@@ -13,8 +13,6 @@ The main focus of this project is applying **Bootstrap 5** grid systems, RTL lay
 ### 📸 Screenshots
 * **Desktop View**
   ![Desktop Screenshot](screenshots/desktop.png)
-* **Mobile View**
-  ![Mobile Screenshot](screenshots/mobile.png)
 
 
 ### ✨ Features
