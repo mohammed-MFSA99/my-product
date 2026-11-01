@@ -95,7 +95,7 @@ Through building this landing page, I practiced:
 
 
 ### 👨‍💻 Author
-**Mohammed Faez Saeed**  
+**Mohammed Faez**  
 *Frontend Web Developer*
 - **GitHub:** [@mohammed-MFSA99](https://github.com/mohammed-MFSA99)
 - **LinkedIn**: [Mohammed Faez](https://www.linkedin.com/in/mohammed-faez-alameri)
@@ -105,7 +105,7 @@ Through building this landing page, I practiced:
 <a name="arabic"></a>
 
 <div dir="rtl">
-
+<!-- 
 ### 📌 عن المشروع
 مشروع **My Product** هو واجهة ويب من صفحة واحدة مصممة لاستعراض منتج ومميزاته للعملاء بشكل واضح ومرتب.
 يركز المشروع بشكل أساسي على توظيف نظام الشبكة (Grid System) في **Bootstrap 5**، ودعم اتجاه الكتابة من اليمين لليسار (RTL)، وتنسيق الأقسام المختلفة لتعمل بسلاسة على مختلف أحجام الشاشات.
@@ -184,7 +184,7 @@ my-product/
 
 ### 🔮 تحسينات مستقبلية
 - إضافة تأثيرات حركية بسيطة (Animations) أثناء التمرير بين الأقسام.
-- ضغط الصور والفيديوهات لتحسين سرعة تحميل الصفحة.
+- ضغط الصور والفيديوهات لتحسين سرعة تحميل الصفحة. -->
 
 
 </div>
